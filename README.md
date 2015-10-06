@@ -13,4 +13,7 @@ Focus on collecting different public database for research. If you have any link
 + [City Record Online](https://nycopendata.socrata.com/);
 + [TLC Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml);
 
+### Network data
++ [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/);
+
 ### Todo

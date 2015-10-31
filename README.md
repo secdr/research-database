@@ -14,6 +14,7 @@ Focus on collecting different public database for research. If you have any link
 + [TLC Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml);
 + [Frequency Word Lists](https://invokeit.wordpress.com/frequency-word-lists/);
 + [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/);
++ [Wikimedia database](https://dumps.wikimedia.org/);
 
 ### Network data
 + [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/);

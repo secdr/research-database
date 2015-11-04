@@ -17,7 +17,7 @@ Focus on collecting different public database for research. If you have any link
 + [Wikimedia database](https://dumps.wikimedia.org/);
 
 ### Network data
-+ [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/);
++ [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/); ******
 + [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html);
 
 ### Todo

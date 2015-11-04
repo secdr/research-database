@@ -19,6 +19,9 @@ Focus on collecting different public database for research. If you have any link
 ### Network data
 + [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html);
 
+### Malware Data
++ [Driving in the Cloud Dataset](http://malicia-project.com/dataset.html);
+
 ### [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data)
 + Social networks : online social networks, edges represent interactions between people
 + Networks with ground-truth communities : ground-truth network communities in social and information networks

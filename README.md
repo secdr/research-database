@@ -22,6 +22,9 @@ Focus on collecting different public database for research. If you have any link
 ### Malware Data
 + [Driving in the Cloud Dataset](http://malicia-project.com/dataset.html);
 
+### Others
++ [beijing data](http://www.beijingcitylab.com/data-released-1/)
+
 ### [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data)
 + Social networks : online social networks, edges represent interactions between people
 + Networks with ground-truth communities : ground-truth network communities in social and information networks

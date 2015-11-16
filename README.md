@@ -21,6 +21,7 @@ Focus on collecting different public database for research. If you have any link
 
 ### Malware Data
 + [Driving in the Cloud Dataset](http://malicia-project.com/dataset.html);
++ [Nothink Malware samples](http://www.nothink.org/honeypots/malware-archives/)
 
 ### Others
 + [beijing data](http://www.beijingcitylab.com/data-released-1/)

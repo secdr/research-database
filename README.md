@@ -25,6 +25,8 @@ Focus on collecting different public database for research. If you have any link
 + [SecRepo.com - Samples of Security Related Data](http://www.secrepo.com/) ****
 + [lanl.gov Open Data Sets](http://csr.lanl.gov/data/);
 + [Crime data from the St. Louis Metropolitan Police Departments](https://github.com/kylesykes/stl-crime-data);
++ [Chronology of Data Breaches Security Breaches 2005 - Present](https://www.privacyrights.org/data-breach);
+
 
 ### Others
 + [beijing data](http://www.beijingcitylab.com/data-released-1/)

@@ -26,6 +26,7 @@ Focus on collecting different public database for research. If you have any link
 + [lanl.gov Open Data Sets](http://csr.lanl.gov/data/);
 + [Crime data from the St. Louis Metropolitan Police Departments](https://github.com/kylesykes/stl-crime-data);
 + [Chronology of Data Breaches Security Breaches 2005 - Present](https://www.privacyrights.org/data-breach);
++ [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/);
 
 
 ### Others

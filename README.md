@@ -15,6 +15,7 @@ Focus on collecting different public database for research. If you have any link
 + [Frequency Word Lists](https://invokeit.wordpress.com/frequency-word-lists/);
 + [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/);
 + [Wikimedia database](https://dumps.wikimedia.org/);
++ [Airbnb dabase](http://insideairbnb.com/get-the-data.html);
 
 ### Network data
 + [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html);

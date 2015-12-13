@@ -6,6 +6,7 @@ Focus on collecting different public database for research. If you have any link
 + [PhishTank](https://www.phishtank.com/developer_info.php);
 + [OpenPhish](https://www.openphish.com/);
 + [315online](http://www.315online.com.cn/list.php?catid=33);
++ [中国移动垃圾短信](http://www.wid.org.cn/project/2015ccf/comp_detail.php?cid=227);
 
 ### Social data
 + [Reddit Comments Corpus](https://archive.org/details/2015_reddit_comments_corpus);
@@ -28,6 +29,7 @@ Focus on collecting different public database for research. If you have any link
 + [Crime data from the St. Louis Metropolitan Police Departments](https://github.com/kylesykes/stl-crime-data);
 + [Chronology of Data Breaches Security Breaches 2005 - Present](https://www.privacyrights.org/data-breach);
 + [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/);
++ [Microsoft Malware Classification Challenge (BIG 2015)](https://www.kaggle.com/c/malware-classification/forums);
 
 
 ### Others

@@ -7,6 +7,7 @@ Focus on collecting different public database for research. If you have any link
 + [OpenPhish](https://www.openphish.com/);
 + [315online](http://www.315online.com.cn/list.php?catid=33);
 + [中国移动垃圾短信](http://www.wid.org.cn/project/2015ccf/comp_detail.php?cid=227);
++ [360最近恶意网站列表](http://webscan.360.cn/url)
 
 ### Social data
 + [Reddit Comments Corpus](https://archive.org/details/2015_reddit_comments_corpus);
